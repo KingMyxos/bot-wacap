@@ -6,9 +6,6 @@ Bot By Myxos
 > apt update && apt upgrade
 > git clone https://github.com/KingMyxos/bot-wacap
 > cd bot-wacap
-> unzip myx-bot.zip
-> cd myx-bot
-> cd myx-bot
 > bash install.sh
 > npm i node-tesseract-ocr
 > npm i
@@ -17,3 +14,4 @@ Bot By Myxos
 
 
 Gunakan Dengan Bijak >_<
+
